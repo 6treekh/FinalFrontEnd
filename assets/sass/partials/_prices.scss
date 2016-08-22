@@ -1,0 +1,171 @@
+#prices{
+	position:relative;
+	padding:30px 0;
+	font-weight:300;
+	text-align:center;
+	color: #000000;
+}
+	p{
+		margin: 0 0 10px;
+	    line-height: 25px;
+		margin-bottom:30px;
+	}
+
+	.sub-header{
+		margin-bottom: 30px;
+	}
+
+	.black{
+		color:#000000;
+	}
+
+	.bg{
+		border: 1px solid #f0f0f0;
+		background-color: #f7f7f7;
+	}
+
+	.innerBg{
+			background-color: #F2F2F3;
+
+	}
+
+	h2{		
+		font-family:'Lato';
+		text-align:center;
+		font-size:  45px !important;
+		margin: 20px 0 15px;
+		font-weight: 300;
+	}
+
+	h3{
+		padding-top: 5px;
+		padding-bottom:10px;
+		text-align:center;
+		font-size:25px;
+		font-weight:300;
+	}
+	.pack{
+		text-align:center;
+		margin: 0 0 10px;
+		line-height: 25px;
+		margin-bottom: 30px;
+	}
+
+	.price{
+		margin:0;
+		font-size: 115px;
+		font-weight: 300;
+		line-height: 125px;
+	}
+
+	.curren{
+		color: #2ab6ff;
+	}
+
+	.def-gray{
+		color:#8d8d8d !important;
+	}
+
+	.currency{
+	    font-size: 47px;
+	    font-weight: 500;
+	    line-height: 1;
+	}
+
+	.price span{
+		vertical-align:super;
+	}
+
+	.period{
+		color: #aeaeae;
+		font-size:15px;
+		padding-bottom:10px;
+	}
+
+	.pack{
+		padding: 30px 15px 50px;
+	}
+
+	.unstyledList{
+		padding-left:0px;
+		list-style:none;
+	}
+
+	.pack ul{
+		padding-bottom:30px;
+	}
+
+	.pack ul li{
+		height: 56px;
+	    padding: 15px 0;
+	    font-size: 16px;
+	    font-weight: 500;
+	    line-height: 25px;
+	    color:#8d8d8d;
+	    border-bottom: 1px solid #dadada;
+	    border-bottom-width: 60%;
+	}
+
+	.pack a{
+		border-radius:3px;
+		border:1px solid #8d8d8d;
+		max-width: 100%;
+	    padding: 15px 30px;
+	    text-decoration: none;
+	    font-weight: 500;
+	}
+
+
+	.spec:hover {
+	    .bg{
+	    	background-color: #2ab6ff;
+	    	}
+	    .innerBg {
+	        background-color: #23addb;
+	        color: #ffffff !important;       
+	        }
+	    .pack ul li{
+	    	color: #ffffff !important;
+	    	border-bottom: 1px solid #ffffff;
+	    	}
+	    .curren{
+	    	color: #ffffff;
+	    	span{
+	    	color: #ffffff !important;
+	    	}
+	    }
+	    .black{
+	    	color:#ffffff !important;
+	    }
+	    .pack a{
+	        border: 1px solid white;
+	        color: white;
+	        background-color:none;
+	        }
+	    .pack a:hover {
+	        background-color: white;
+	        color: #2ab6ff;
+	        }
+	}
+
+
+	.Logo {
+	    margin:0;
+		padding:0;
+		vertical-align: baseline;
+		text-align:center;
+	}
+
+	.Logo ul{
+		margin: 23px -5px;
+		list-style:none;
+		padding-left: 0;
+	}
+
+	.Logo ul li{
+		padding:0 25px;
+		display: inline-block !important;
+	}
+
+
+

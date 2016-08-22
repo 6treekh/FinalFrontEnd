@@ -1,0 +1,43 @@
+body{
+	background:url(../img/low_poly_background.jpg);
+	background-size: cover;	
+	background-attachment:fixed;
+	font-family:'Lato';
+	font-size:13px;
+	font-weight: 400;
+    line-height: 1.5625;
+}
+
+
+.margin0{
+	margin: 0 auto;
+}
+
+.padding0{
+	padding: 0 auto;
+}
+
+.clearFix{
+	clear:both;
+}
+
+.widthMax{
+	width:100%;
+}
+
+.bg-white{
+	background-color: #ffffff;
+}
+
+.black{
+	color:black !important;
+}
+
+.lightBlue{
+	color: #1ac6ff !important;
+}
+
+.lato {
+	font-family:'Lato' !important;
+}
+
