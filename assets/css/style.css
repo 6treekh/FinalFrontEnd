@@ -122,6 +122,129 @@ h5 {
       padding: 0 25px;
       display: inline-block; }
 
+#About {
+  padding-top: 80px;
+  background-color: #ffffff !important; }
+  #About hr {
+    padding-top: 20px; }
+
+#About .col-lg-12 {
+  padding-bottom: 35px; }
+  #About .col-lg-12 button {
+    height: 60px;
+    width: 180px;
+    text-transform: uppercase;
+    border: 1px solid #C0C3C6;
+    background: none;
+    border-radius: 0;
+    transition: all .2s ease; }
+  #About .col-lg-12 button:hover {
+    background: #2ab6ff;
+    color: white; }
+  #About .col-lg-12 .active {
+    box-shadow: none !important;
+    background: #2ab6ff !important;
+    color: white; }
+
+#tabs h1 {
+  text-transform: uppercase;
+  font-weight: 300; }
+#tabs span {
+  color: #2ab6ff; }
+#tabs img {
+  padding-bottom: 15px; }
+#tabs ul {
+  margin-top: 55px; }
+  #tabs ul button {
+    width: 150px;
+    height: 45px;
+    text-transform: uppercase;
+    background: none;
+    color: #2ab6ff;
+    border: 1px solid #2ab6ff; }
+
+.about-btn:hover {
+  background-color: #2ab6ff !important;
+  color: #ffffff !important; }
+
+#aboutContent {
+  padding-top: 20px;
+  padding-bottom: 100px; }
+  #aboutContent img {
+    padding-bottom: 20px; }
+  #aboutContent .col-lg-6:nth-child(1) {
+    padding-top: 20px; }
+  #aboutContent h1 {
+    text-transform: uppercase;
+    font-weight: 300; }
+  #aboutContent span {
+    color: #2ab6ff; }
+  #aboutContent .container:nth-child(2) .col-lg-6:nth-child(2) {
+    padding-top: 80px; }
+
+#Features .featuresContent {
+  background: #f0f0f0;
+  padding-top: 55px; }
+  #Features .featuresContent ul {
+    margin-top: 65px; }
+  #Features .featuresContent li {
+    padding: 25px 40px 30px 25px;
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    cursor: pointer; }
+    #Features .featuresContent li h4 {
+      text-transform: uppercase;
+      font-weight: 700;
+      color: #2ab6ff;
+      font-size: 17px; }
+  #Features .featuresContent .active {
+    background: #2ab6ff;
+    color: white; }
+    #Features .featuresContent .active h4 {
+      color: white; }
+
+#Features .featuresList {
+  padding-top: 80px;
+  background: white; }
+  #Features .featuresList .col-lg-3 {
+    padding-bottom: 80px; }
+  #Features .featuresList i {
+    color: #2ab6ff;
+    padding-bottom: 15px; }
+  #Features .featuresList p {
+    font-size: 15px;
+    color: #736c6a; }
+  #Features .featuresList h4 {
+    text-transform: uppercase; }
+
+#Features .featuresLiveUpdate {
+  padding-top: 40px;
+  padding-bottom: 30px; }
+  #Features .featuresLiveUpdate h1 {
+    font-size: 45px;
+    text-transform: uppercase;
+    font-weight: 300;
+    color: white; }
+  #Features .featuresLiveUpdate p {
+    color: white; }
+  #Features .featuresLiveUpdate ul {
+    padding-top: 20px; }
+  #Features .featuresLiveUpdate input[name='yourName'] {
+    padding: 8px 10px;
+    border-left: 3px solid #2ab6ff; }
+  #Features .featuresLiveUpdate input[name='yourEmail'] {
+    padding: 8px 90px 8px 10px;
+    border-left: 3px solid #2ab6ff; }
+  #Features .featuresLiveUpdate input[name='liveSubmit'] {
+    padding: 11px 35px;
+    border: 1px solid white;
+    text-transform: uppercase;
+    background: none;
+    color: white; }
+  #Features .featuresLiveUpdate .feat-btn:hover {
+    background-color: #ffffff;
+    color: #2ab6ff; }
+
 #prices {
   position: relative;
   padding: 30px 0;
